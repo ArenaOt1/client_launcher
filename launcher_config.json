@@ -8,6 +8,6 @@
     { "name": "storeimages" }
   ],
   "clientFolder": "Tibia",
-  "newClientUrl": "https://github.com/ArenaOt1/client_launcher/releases/download/v13.32.14520/ARENAOT._LAUNCHER.zip",
+  "newClientUrl": "https://github.com/ArenaOt1/client_launcher/releases/download/v13.32.14520/arenaot.zip",
   "clientExecutable": "client.exe"
 }
