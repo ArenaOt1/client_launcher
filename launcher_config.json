@@ -1,0 +1,13 @@
+{
+  "clientVersion": "13.32.14520",
+  "launcherVersion": "1.0",
+  "replaceFolders": true,
+  "replaceFolderName": [
+    { "name": "assets" },
+    { "name": "bin" },
+    { "name": "storeimages" }
+  ],
+  "clientFolder": "Tibia",
+  "newClientUrl": "https://github.com/ArenaOt1/client_launcher.git",
+  "clientExecutable": "client.exe"
+}
